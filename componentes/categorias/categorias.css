@@ -1,0 +1,39 @@
+.categorias {
+     margin-top: 20px;
+}
+
+.categorias h2 {
+   text-align: left;
+    font-size: 18px;
+    margin-top: 10px;
+    
+}
+
+.categorias h1 {
+   text-align: left;
+    margin-top: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 28px;
+}
+
+.categorias ul{
+    margin-top: 10px;
+    list-style: none;
+display: flex;
+gap: 10px;
+}
+
+.categorias ul li {
+      border: 1px solid rgb(185, 184, 184);
+    border-radius: 3px;
+    padding: 7px 20px;
+    margin-top: 10px;
+    align-items: center;
+   
+    
+}
+
+.categorias p{
+    margin-top: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

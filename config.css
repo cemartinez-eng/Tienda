@@ -1,0 +1,15 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: "Playpen Sans", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+    width: 600px;
+    padding: 5px;
+    margin: auto;
+}

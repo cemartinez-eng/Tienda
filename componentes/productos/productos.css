@@ -1,0 +1,53 @@
+.productos{
+    margin-top: 30px;
+
+}
+.productos h3{
+    margin-top: 15px;
+}
+
+.productos h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.producto{
+    justify-content: center;
+    max-width: 600px;
+    margin: auto;
+    display: inline-block;
+    margin-top: 10px;
+}
+.producto img{
+    width: 170px;
+    height: auto;
+    display: inline;
+    display: inline-block;
+    border: 1px solid rgb(194, 194, 194);
+    border-radius: 3px;
+    padding: 40px 20px;
+    margin-top: 10px;
+}
+
+.lip{
+    background-color: #FADBE2;
+    color: rgb(23, 2, 2);
+    font-weight: 600;
+}
+
+.blush{
+    background-color: #EFD9D1;
+    color: rgb(23, 2, 2);
+    font-weight: 600;
+}
+
+.ilu{
+    background-color: #FADBE2;
+    color: rgb(23, 2, 2);
+    font-weight: 600;
+}
+
+.skin{
+    background-color: #EFD9D1;
+    color: rgb(23, 2, 2);
+    font-weight: 600;
+}
